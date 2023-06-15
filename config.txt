@@ -1,0 +1,4 @@
+IP_ADDR=127.0.0.1
+DISK_1=disk1/
+DISK_2=disk2/
+PORT=2000
